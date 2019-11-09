@@ -229,7 +229,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "assets/info",
+        "title": "assets",
         "order": 1
       },
       "components": [
