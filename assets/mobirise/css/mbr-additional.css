@@ -9,6 +9,7 @@
 
 #header4-0 H1 {
   font-family: 'Arimo', sans-serif;
+  text-align: left;
 }
 #header4-0 SPAN {
   font-family: 'Lato', sans-serif;
@@ -16,6 +17,7 @@
 #header4-0 P {
   font-family: 'Noto Sans', sans-serif;
   font-size: 17px;
+  text-align: left;
 }
 #header3-3 H3 {
   text-align: left;
