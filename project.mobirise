@@ -140,7 +140,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\"><br><br><br><br><br><br><br><br><br><br>Site Development Credits:</span>",
+          "title": "<span style=\"font-weight: normal;\"><br><br><br><br><br>Site Development Credits:</span>",
           "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Theme"
