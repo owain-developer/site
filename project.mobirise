@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#777777"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
@@ -158,7 +160,7 @@
           }
         },
         {
-          "text": "<p>Google Fonts</p><p>Mobirise Assets</p><p>Bootstrap</p><p>Justin Owens</p>",
+          "text": "<p><a href=\"https://fonts.google.com/\" class=\"text-gray\">Google Fonts</a></p><p><a href=\"https://mobirise.com/\" class=\"text-gray\">Mobirise Assets</a></p><p><a href=\"https://getbootstrap.com/\" class=\"text-gray\">Bootstrap</a></p>",
           "_tags": [
             "Theme"
           ],
