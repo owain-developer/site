@@ -1,7 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+
 
 
 
@@ -19,30 +24,165 @@
   font-size: 17px;
   text-align: center;
 }
-#header3-3 H3 {
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-9 .mbr-article P {
+  text-align: center;
+}
+#msg-box3-9 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-1 H3 {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+}
+#content1-2 P {
   text-align: left;
 }
-#content1-4 P {
-  text-align: left;
+#form1-c .mbr-header__text {
+  font-family: 'Oxygen', sans-serif;
 }
-#header3-6 H3 {
-  text-align: left;
-}
-#content1-8 P {
-  text-align: left;
-}
-#header3-f H3 {
+#header3-5 H3 {
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
   font-size: 10px;
 }
-#header3-f SPAN {
+#header3-5 SPAN {
   font-size: 16px;
 }
-#content1-e DIV {
+#content1-6 DIV {
   font-family: 'Titillium Web', sans-serif;
   font-size: 14px;
 }
-#content1-e P {
+#content1-6 P {
   text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+#header4-d H1 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+}
+#header4-d SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header4-d P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+#msg-box4-e .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#msg-box4-e .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-e .mbr-article {
+  color: #000000;
+}
+#msg-box4-e .mbr-article P {
+  text-align: right;
+}
+#msg-box4-g .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-g .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-g .mbr-article {
+  color: #000000;
+}
+#msg-box4-g .mbr-article P {
+  text-align: left;
+}
+#msg-box4-p .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#msg-box4-p .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-p .mbr-article {
+  color: #000000;
+}
+#msg-box4-p .mbr-article P {
+  text-align: right;
+}
+#msg-box4-r .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-r .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-r .mbr-article {
+  color: #000000;
+}
+#msg-box4-r .mbr-article P {
+  text-align: left;
+}
+#msg-box4-s .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#msg-box4-s .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-s .mbr-article {
+  color: #000000;
+}
+#msg-box4-s .mbr-article P {
+  text-align: right;
+}
+#msg-box4-y .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-y .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-y .mbr-article {
+  color: #000000;
+}
+#msg-box4-y .mbr-article P {
+  text-align: left;
+}
+#msg-box4-z .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#msg-box4-z .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-z .mbr-article {
+  color: #000000;
+}
+#msg-box4-z .mbr-article P {
+  text-align: right;
 }
