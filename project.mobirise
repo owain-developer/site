@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-26_0124",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -115,7 +115,7 @@
           "title": "View Mods",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>I've made a vast array of minecraft mods, and the majority of them are public use!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span style=\"font-weight: normal;\">&nbsp; View all Minecraft stuff</span></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span style=\"font-weight: normal;\">Minecraft</span></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; Roblox &nbsp;</a>    ",
           "_tags": [
             "Theme"
           ],
@@ -271,7 +271,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cheng-feng-qdlluborwxs-unsplash-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2020-01-18-14.23.19-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -850,7 +850,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cheng-feng-qdlluborwxs-unsplash-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dacgcc1-6c383c3c-6ea6-4286-adf0-9153d3972290-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -918,7 +918,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/unknown-1-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/funny-weird-wtf-stock-photos-6-5a3919969a332-700-700x473.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -935,8 +935,8 @@
               "size": 0
             }
           },
-          "title": "Custom Pause Menu",
-          "text": "<p>Adds a custom pause menu. You're able to add widgets which you can download from here. The mod already includes a few; Music player mod, Account Manager mod, Smooth Clock mod.</p>",
+          "title": "title text",
+          "text": "<p>description text</p>",
           "_tags": [
             "Theme"
           ],
@@ -992,7 +992,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/unknown-1214x683.png",
+              "src": "@PROJECT_PATH@/assets/images/funny-weird-wtf-stock-photos-6-5a3919969a332-700-700x473.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1009,8 +1009,8 @@
               "size": 0
             }
           },
-          "title": "Custom Main Menu",
-          "text": "<p>Adds a custom main menu. You're able to add widgets downloaded from here onto the main menu. In the picture I've used the Music Player mod.</p>",
+          "title": "title text",
+          "text": "<p>description text</p>",
           "_tags": [
             "Theme"
           ],
