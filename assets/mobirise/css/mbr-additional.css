@@ -186,3 +186,48 @@
 #msg-box4-z .mbr-article P {
   text-align: right;
 }
+
+
+
+
+
+#header4-13 H1 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+}
+#header4-13 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header4-13 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+#msg-box4-14 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: right;
+}
+#msg-box4-14 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-14 .mbr-article {
+  color: #000000;
+}
+#msg-box4-14 .mbr-article P {
+  text-align: right;
+}
+#msg-box4-15 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-15 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-15 .mbr-article {
+  color: #000000;
+}
+#msg-box4-15 .mbr-article P {
+  text-align: left;
+}
