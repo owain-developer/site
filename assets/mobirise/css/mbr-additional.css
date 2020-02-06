@@ -72,6 +72,7 @@
 
 
 
+
 #header4-d H1 {
   font-family: 'Arimo', sans-serif;
   text-align: center;
@@ -186,6 +187,19 @@
 #msg-box4-z .mbr-article P {
   text-align: right;
 }
+#msg-box3-17 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-17 .mbr-article P {
+  text-align: center;
+}
+#msg-box3-17 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
 
 
 
@@ -230,4 +244,16 @@
 }
 #msg-box4-15 .mbr-article P {
   text-align: left;
+}
+#msg-box3-16 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-16 .mbr-article P {
+  text-align: center;
+}
+#msg-box3-16 .btn {
+  font-family: 'Oxygen', sans-serif;
 }
