@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-26_0124",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -121,40 +121,6 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-9"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "<span style=\"font-weight: normal;\">Why do I know so many coding languages?</span>",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "header3-1"
-        },
-        {
-          "text": "<p>I've been born with a mental order, which allows me to learn things faster than the average human. Doctors say languages show the biggest effect to the order, and I agree. I learnt my first coding language, somewhat fluently and was able to make a fully working functional app within half a month. That was C#.</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_params": {},
-          "_anchor": "content1-2"
         },
         {
           "_params": {
