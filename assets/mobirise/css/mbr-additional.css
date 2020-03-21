@@ -64,6 +64,8 @@
 
 
 
+
+
 #header4-d H1 {
   font-family: 'Arimo', sans-serif;
   text-align: center;
@@ -79,7 +81,7 @@
 #msg-box4-e .mbr-header__text {
   color: #000000;
   font-family: 'Roboto', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-e .mbr-header__subtext {
   color: #000000;
@@ -89,7 +91,7 @@
   color: #000000;
 }
 #msg-box4-e .mbr-article P {
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-g .mbr-header__text {
   color: #000000;
@@ -108,7 +110,7 @@
 #msg-box4-p .mbr-header__text {
   color: #000000;
   font-family: 'Roboto', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-p .mbr-header__subtext {
   color: #000000;
@@ -118,7 +120,7 @@
   color: #000000;
 }
 #msg-box4-p .mbr-article P {
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-r .mbr-header__text {
   color: #000000;
@@ -137,7 +139,7 @@
 #msg-box4-s .mbr-header__text {
   color: #000000;
   font-family: 'Roboto', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-s .mbr-header__subtext {
   color: #000000;
@@ -147,7 +149,7 @@
   color: #000000;
 }
 #msg-box4-s .mbr-article P {
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-y .mbr-header__text {
   color: #000000;
@@ -166,7 +168,7 @@
 #msg-box4-z .mbr-header__text {
   color: #000000;
   font-family: 'Roboto', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-z .mbr-header__subtext {
   color: #000000;
@@ -176,7 +178,35 @@
   color: #000000;
 }
 #msg-box4-z .mbr-article P {
-  text-align: right;
+  text-align: left;
+}
+#msg-box4-20 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-20 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-20 .mbr-article {
+  color: #000000;
+}
+#msg-box4-20 .mbr-article P {
+  text-align: left;
+}
+#msg-box4-21 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-21 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-21 .mbr-article {
+  color: #000000;
+}
+#msg-box4-21 .mbr-article P {
+  text-align: left;
 }
 #msg-box3-17 .mbr-header .mbr-header__text {
   text-align: center;
@@ -211,7 +241,7 @@
 #msg-box4-14 .mbr-header__text {
   color: #000000;
   font-family: 'Roboto', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-14 .mbr-header__subtext {
   color: #ffffff;
@@ -220,7 +250,7 @@
   color: #000000;
 }
 #msg-box4-14 .mbr-article P {
-  text-align: right;
+  text-align: left;
 }
 #msg-box4-15 .mbr-header__text {
   color: #000000;
@@ -246,5 +276,421 @@
   text-align: center;
 }
 #msg-box3-16 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+
+
+
+#header4-18 H1 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+}
+#header4-18 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header4-18 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+#msg-box4-19 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-19 .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-19 .mbr-article {
+  color: #000000;
+}
+#msg-box4-19 .mbr-article P {
+  text-align: left;
+}
+#msg-box4-1a .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-1a .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-1a .mbr-article {
+  color: #000000;
+}
+#msg-box4-1a .mbr-article P {
+  text-align: left;
+}
+#msg-box3-1g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1g .mbr-article P {
+  text-align: center;
+}
+#msg-box3-1g .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+
+
+
+#header4-1h H1 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+}
+#header4-1h SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header4-1h P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+#msg-box4-3s .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-3s .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-3s .mbr-article {
+  color: #000000;
+}
+#msg-box4-3s .mbr-article P {
+  text-align: left;
+}
+#msg-box4-3t .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-3t .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-3t .mbr-article {
+  color: #000000;
+}
+#msg-box4-3t .mbr-article P {
+  text-align: left;
+}
+#msg-box3-1p .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1p .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1p .mbr-article P {
+  text-align: center;
+}
+#msg-box3-1p .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+
+
+
+#header4-1q H1 {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+}
+#header4-1q SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header4-1q P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
+#msg-box4-3u .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-3u .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-3u .mbr-article {
+  color: #000000;
+}
+#msg-box4-3u .mbr-article P {
+  text-align: left;
+}
+#msg-box4-3v .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-3v .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-3v .mbr-article {
+  color: #000000;
+}
+#msg-box4-3v .mbr-article P {
+  text-align: left;
+}
+#msg-box3-1y .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1y .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1y .mbr-article P {
+  text-align: center;
+}
+#msg-box3-1y .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-28 SMALL {
+  text-align: center;
+}
+#msg-box2-29 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-29 .mbr-article {
+  color: #252525;
+}
+#msg-box3-2a .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2a .mbr-article P {
+  text-align: left;
+}
+#msg-box3-33 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-33 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-33 .mbr-article P {
+  text-align: center;
+}
+#msg-box3-33 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#msg-box3-2j .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2j .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2j .mbr-article P {
+  text-align: center;
+}
+#msg-box3-2k .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2k .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2k .mbr-article P {
+  text-align: center;
+}
+#msg-box3-2k .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-2l SMALL {
+  text-align: center;
+}
+#msg-box2-2m .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-2m .mbr-article {
+  color: #252525;
+}
+#msg-box3-2n .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2n .mbr-article P {
+  text-align: left;
+}
+#msg-box3-2o .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2o .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2o .mbr-article P {
+  text-align: center;
+}
+#msg-box3-2o .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-34 SMALL {
+  text-align: center;
+}
+#msg-box2-35 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-35 .mbr-article {
+  color: #252525;
+}
+#msg-box3-36 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-36 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-36 .mbr-article P {
+  text-align: left;
+}
+#msg-box3-37 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-37 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-37 .mbr-article P {
+  text-align: center;
+}
+#msg-box3-37 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-38 SMALL {
+  text-align: center;
+}
+#msg-box2-39 .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-39 .mbr-article {
+  color: #252525;
+}
+#msg-box3-3a .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3a .mbr-article P {
+  text-align: left;
+}
+#msg-box3-3b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3b .mbr-article P {
+  text-align: center;
+}
+#msg-box3-3b .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-3c SMALL {
+  text-align: center;
+}
+#msg-box2-3d .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-3d .mbr-article {
+  color: #252525;
+}
+#msg-box3-3e .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3e .mbr-article P {
+  text-align: left;
+}
+#msg-box3-3f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3f .mbr-article P {
+  text-align: center;
+}
+#msg-box3-3f .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-3g SMALL {
+  text-align: center;
+}
+#msg-box2-3h .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-3h .mbr-article {
+  color: #252525;
+}
+#msg-box3-3i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3i .mbr-article P {
+  text-align: left;
+}
+#msg-box3-3j .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3j .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3j .mbr-article P {
+  text-align: center;
+}
+#msg-box3-3j .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#video2-3k SMALL {
+  text-align: center;
+}
+#msg-box2-3l .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-3l .mbr-article {
+  color: #252525;
+}
+#msg-box3-3m .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3m .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3m .mbr-article P {
+  text-align: left;
+}
+#msg-box3-3n .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3n .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3n .mbr-article P {
+  text-align: center;
+}
+#msg-box3-3n .btn {
   font-family: 'Oxygen', sans-serif;
 }
