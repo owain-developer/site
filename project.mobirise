@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-26_0124",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1085,7 +1085,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/funny-weird-wtf-stock-photos-6-5a3919969a332-700-700x473.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roblox1-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1102,8 +1102,8 @@
               "size": 0
             }
           },
-          "title": "placeholder",
-          "text": "<p>description text</p>",
+          "title": "Weapon Saves",
+          "text": "<p>Adds a new UI area, allows you to quick swap guns with attachments and skins already added. Also allows you to overview all the added attachments on a gun already (As seen in the picture).</p><p>For <b>Phantom Forces</b>.</p>",
           "_tags": [
             "Theme"
           ],
