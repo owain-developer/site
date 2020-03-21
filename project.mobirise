@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-26_0124",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,9 +13,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 140,
+    "uniqCompNum": 44,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/download-32x32.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
