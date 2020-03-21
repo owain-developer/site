@@ -64,6 +64,8 @@
 
 
 
+
+
 #header4-d H1 {
   font-family: 'Arimo', sans-serif;
   text-align: center;
@@ -147,6 +149,35 @@
   color: #000000;
 }
 #msg-box4-s .mbr-article P {
+  text-align: left;
+}
+#msg-box4-1a .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-1a .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-1a .mbr-article {
+  color: #000000;
+}
+#msg-box4-1a .mbr-article P {
+  text-align: left;
+}
+#msg-box4-19 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#msg-box4-19 .mbr-header__subtext {
+  color: #000000;
+  text-align: right;
+}
+#msg-box4-19 .mbr-article {
+  color: #000000;
+}
+#msg-box4-19 .mbr-article P {
   text-align: left;
 }
 #msg-box4-20 .mbr-header__text {
