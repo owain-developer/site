@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-26_0124",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -724,7 +724,7 @@
           },
           "headerAlign": "left",
           "meta": "<span style=\"font-style: normal;\">Widget + Single Feature</span>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-y"
         },
@@ -799,7 +799,7 @@
           },
           "headerAlign": "left",
           "meta": "Widget + Single Feature",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-z"
         },
